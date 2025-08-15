@@ -1,0 +1,3 @@
+// i had to redo myentire code page im not sure what happen in my laptop i couldnt find dom part one but its still in my github...
+// i have followed Dylan style of breakdown referencing back to class and example pasted on slack, 
+// google, chat gpt, codeacadmey 
